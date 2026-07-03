@@ -2,7 +2,7 @@
 
 A searchable, filterable directory of 798 fashion sketch buyers, licensors, and platforms — built as a single static HTML file with zero backend and zero dependencies beyond two Google Fonts.
 
-**[Live demo →]([./index.html](https://misoprettystacks.github.io/Fashion-Sketch-Buyer-Database/))** *(update this link once deployed)*
+**[Live demo →]((https://misoprettystacks.github.io/Fashion-Sketch-Buyer-Database/))** *(update this link once deployed)*
 
 ---
 
